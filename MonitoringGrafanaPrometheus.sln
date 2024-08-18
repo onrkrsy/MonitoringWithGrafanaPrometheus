@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35122.118
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ECommerceApi", "ECommerceApi\ECommerceApi.csproj", "{6DCCFC88-7395-4262-967A-9C6000B25CFB}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{7724770B-890F-41A2-A9F7-B02F058B3725}"
+	ProjectSection(SolutionItems) = preProject
+		docker-compose.yml = docker-compose.yml
+		prometheus.yml = prometheus.yml
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6DCCFC88-7395-4262-967A-9C6000B25CFB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6DCCFC88-7395-4262-967A-9C6000B25CFB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6DCCFC88-7395-4262-967A-9C6000B25CFB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6DCCFC88-7395-4262-967A-9C6000B25CFB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5947D22F-D844-4E2A-A821-0FF4BE3737E4}
+	EndGlobalSection
+EndGlobal
